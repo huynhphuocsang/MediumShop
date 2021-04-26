@@ -1,2 +1,2 @@
 # MediumShop
-This application use database managed by MySQL
+//This application use database managed by MySQL
